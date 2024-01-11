@@ -1,5 +1,4 @@
 # donbosco
-# School Website
 
 Welcome to the official website of [Your School Name]! This repository contains the source code and assets for our school website.
 
