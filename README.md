@@ -6,7 +6,6 @@ Welcome to the official website of Don Bosco ! This repository contains the sour
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
