@@ -6,7 +6,6 @@ Welcome to the official website of Don Bosco ! This repository contains the sour
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -25,10 +24,3 @@ Don Bosco website is designed to provide information and resources for students,
 - **Admissions**: Information on the admission process, requirements, and deadlines.
 - **Gallery**: Browse through photos and videos showcasing school activities and events.
 
-## Getting Started
-
-To run the website locally or contribute to its development, follow these steps:
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/school-website.git
