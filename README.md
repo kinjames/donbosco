@@ -1,6 +1,6 @@
 # donbosco
 
-Welcome to the official website of [Your School Name]! This repository contains the source code and assets for our school website.
+Welcome to the official website of Don Bosco ! This repository contains the source code and assets for our school website.
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@ Welcome to the official website of [Your School Name]! This repository contains 
 
 ## Introduction
 
-[Your School Name] website is designed to provide information and resources for students, parents, and staff. It serves as a central hub for announcements, events, and other important information related to our school.
+Don Bosco website is designed to provide information and resources for students, parents, and staff. It serves as a central hub for announcements, events, and other important information related to our school.
 
 ## Features
 
