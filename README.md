@@ -22,3 +22,5 @@ Don Bosco website is designed to provide information and resources for students,
 - **Admissions**: Information on the admission process, requirements, and deadlines.
 - **Gallery**: Browse through photos and videos showcasing school activities and events.
 
+- ## Screenshots
+
