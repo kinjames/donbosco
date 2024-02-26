@@ -27,4 +27,3 @@ Don Bosco website is designed to provide information and resources for students,
 
 ## links
 
-## Contact
