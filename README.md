@@ -1,6 +1,6 @@
 # donbosco
 
-Welcome to the official website of Don Bosco ! This repository contains the source code and assets for our school website.
+Welcome to the official website of Don Bosco! This repository contains the source code and assets for our school website.
 
 ## Table of Contents
 
