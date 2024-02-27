@@ -8,6 +8,7 @@ Welcome to the official website of Don Bosco! This repository contains the sourc
 - [Features](#features)
 - [Contributing](#contributing)
 - [License](#license)
+- [Screenshots](#screenshots)
 
 ## Introduction
 
