@@ -13,7 +13,7 @@ Welcome to the official website of Don Bosco! This repository contains the sourc
 
 ## Introduction
 
-Don Bosco website is designed to provide information and resources for students, parents, and staff. It serves as a central hub for announcements, events, and other important information related to our school.
+Don Bosco website is designed to provide information and resources for students, parents, and staff. It serves as a central hub for announcements, events,and other important information related to our school.
 
 ## Features
 
