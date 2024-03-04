@@ -25,6 +25,7 @@ Don Bosco website is designed to provide information and resources for students,
 - **Gallery**: Browse through photos and videos showcasing school activities and events.
 
 ## Screenshots
+<p>Desktop View</p>
 
 ## Acknowledgement
 
