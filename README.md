@@ -26,6 +26,7 @@ Don Bosco website is designed to provide information and resources for students,
 
 ## Screenshots
 <p>Desktop View</p>
+<p>Mobile View</p>
 
 ## Acknowledgement
 
