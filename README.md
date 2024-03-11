@@ -20,7 +20,7 @@ Don Bosco website is designed to provide information and resources for students,
 - **Homepage**: A welcoming page with an overview of the school and quick access to important sections.
 - **Announcements**: Stay updated with the latest news, events, and important announcements.
 - **Courses and Programs**: Explore the various courses and programs offered by the school.
-- **Contact Information**: Easily find contact details for teachers, staff, and the administration.
+- **Contact Information**: Easily find contact details for teachers, staff and the administration.
 - **Admissions**: Information on the admission process, requirements, and deadlines.
 - **Gallery**: Browse through photos and videos showcasing school activities and events.
 
